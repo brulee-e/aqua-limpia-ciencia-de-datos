@@ -93,7 +93,7 @@ y ambiental de tres plantas de tratamiento:
 ## Principales resultados
 
 - Solo el **22% de los registros** cumple con la normativa ambiental vigente.
-- Las tres plantas presentan eficiencias de remoción de DBO similares.
+- Las tres plantas presentan eficiencias de remoción de DBO similares
   (entre 86% y 87%), lo que sugiere que el problema no es técnico.
 - **Planta Norte** registra la mayor cantidad de incumplimientos (59 casos)
   y la tasa de cumplimiento más baja (17%).
